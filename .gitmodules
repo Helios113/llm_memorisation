@@ -1,0 +1,9 @@
+[submodule "datasets/PISTOL"]
+	path = datasets/PISTOL
+	url = git@hf.co:datasets/xinchiqiu/PISTOL
+[submodule "differential_privacy/opacus"]
+	path = differential_privacy/opacus
+	url = https://github.com/pytorch/opacus.git
+[submodule "mia/mimir"]
+	path = mia/mimir
+	url = https://github.com/iamgroot42/mimir.git
