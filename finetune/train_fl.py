@@ -88,7 +88,9 @@ strategy = fl.server.strategy.FedAvg(
     ),
 )
 client_manager = RandomOrgClientManager("2e4c64c1-80ab-42b9-8924-9576140f571e")
+
 num_rounds = cfg.flower.num_rounds
+
 server = fl.server.ServerApp(
     config=fl.server.ServerConfig(num_rounds=num_rounds),
     strategy=strategy, 
