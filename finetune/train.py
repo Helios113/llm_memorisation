@@ -13,7 +13,7 @@ import wandb
 
 
 
-@hydra.main(config_path="conf", config_name="config", version_base=None)
+@hydra.main(config_path="conf", config_name="config_pythia.yaml", version_base=None)
 def main(cfg: DictConfig) -> None:
     print(OmegaConf.to_yaml(cfg))
     save_path = str(HydraConfig.get().runtime.output_dir)
@@ -21,7 +21,7 @@ def main(cfg: DictConfig) -> None:
         project="llm-memorization", id=cfg.wandb_id, resume="allow"
     )
 
-    dataset = load_dataset(cfg.dataset.name, split="train")
+    dataset = load_dataset(cfg.dataset.name, 'pistol_data_1', split="train")
     train_set = None
     eval_set = None
     if cfg.train.evaluate_split:
@@ -82,5 +82,5 @@ def main(cfg: DictConfig) -> None:
 
 
 if __name__ == "__main__":
-    os.environ["WANDB_PROJECT"] = "LLM_memorization"
+    os.environ["WANDB_PROJECT"] = "llm-memorization"
     main()

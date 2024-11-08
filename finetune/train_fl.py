@@ -22,7 +22,7 @@ def fit_weighted_average(metrics):
     return {"train_loss": sum(losses) / sum(examples)}
 
 
-os.environ["WANDB_PROJECT"] = "test-fl-memorization"
+os.environ["WANDB_PROJECT"] = "llm-memorization"
 
 save_path = "conf"
 cfg = OmegaConf.load(save_path + "/fl_config_pythia.yaml")
