@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "finetune"
+name = "llm-memorization"
 version = "0.1.0"
 description = ""
-authors = ["Preslav <preslav.aleksandrov@protonmail.com>"]
+authors = ["Dongqi <cdq@bupt.edu.cn>"]
 readme = "README.md"
 package-mode = false
 

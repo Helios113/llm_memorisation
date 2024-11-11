@@ -1,0 +1,8 @@
+./finetune/pyproject.toml
+finetune/my_fl_model/*
+finetune/outputs/*
+finetune/slurm_out/*
+finetune/logs/*
+finetune/__pycache__/utils.cpython-311.pyc
+finetune/__pycache__/data_formatting.cpython-311.pyc
+finetune/__pycache__/client.cpython-311.pyc

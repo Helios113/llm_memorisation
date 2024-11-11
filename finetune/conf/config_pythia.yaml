@@ -1,9 +1,9 @@
 ---
-resume: True
-checkpoint_path: "/nfs-share/wlm27/sft_trainer/outputs/2024-06-21/17-32-27/checkpoint-3600"
-wandb_id: "pythia_6_9B_01"
+resume: False
+checkpoint_path: "/nfs-share/dc912/llm_memorisation/finetune/outputs/2024-10-29/17-15-16"
+wandb_id: "pythia_6_9B_01_pistol"
 dataset:
-  name: "medalpaca/medical_meadow_medical_flashcards"
+  name: "xinchiqiu/PISTOL"
 
 model:
   name: "EleutherAI/pythia-6.9b"
