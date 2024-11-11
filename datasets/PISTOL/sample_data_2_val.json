@@ -1,0 +1,752 @@
+[
+    {
+        "question": "What was the effective date of the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "04-11-2006.",
+        "edge": "0_1"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Fcgqkv Ltd as of 04-11-2006?",
+        "answer": "Oosvxc BV.",
+        "edge": "0_1"
+    },
+    {
+        "question": "What was the address of Oosvxc BV in the contract with Fcgqkv Ltd?",
+        "answer": "876 Tkpzdm Boulevard.",
+        "edge": "0_1"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Oosvxc BV as of 04-11-2006?",
+        "answer": "Fcgqkv Ltd.",
+        "edge": "0_1"
+    },
+    {
+        "question": "What was the address of Fcgqkv Ltd in the contract with Oosvxc BV?",
+        "answer": "238 Fufjgx Circle.",
+        "edge": "0_1"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "T-shirts.",
+        "edge": "0_1"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "36.",
+        "edge": "0_1"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "66.",
+        "edge": "0_1"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "2376.",
+        "edge": "0_1"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "5.",
+        "edge": "0_1"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "5.",
+        "edge": "0_1"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "25.",
+        "edge": "0_1"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "1%.",
+        "edge": "0_1"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "946 Okybcw Terrace.",
+        "edge": "0_1"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "Seller.",
+        "edge": "0_1"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "Seller.",
+        "edge": "0_1"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "3.",
+        "edge": "0_1"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "10.",
+        "edge": "0_1"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "13.",
+        "edge": "0_1"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "The State of North Carolina.",
+        "edge": "0_1"
+    },
+    {
+        "question": "What was the effective date of the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "26-01-2011.",
+        "edge": "1_2"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Fcgqkv Ltd as of 26-01-2011?",
+        "answer": "Kbyymf SA.",
+        "edge": "1_2"
+    },
+    {
+        "question": "What was the address of Kbyymf SA in the contract with Fcgqkv Ltd?",
+        "answer": "132 Rlfjsb Boulevard.",
+        "edge": "1_2"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Kbyymf SA as of 26-01-2011?",
+        "answer": "Fcgqkv Ltd.",
+        "edge": "1_2"
+    },
+    {
+        "question": "What was the address of Fcgqkv Ltd in the contract with Kbyymf SA?",
+        "answer": "238 Fufjgx Circle.",
+        "edge": "1_2"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "Jeans.",
+        "edge": "1_2"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "11.",
+        "edge": "1_2"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "55.",
+        "edge": "1_2"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "605.",
+        "edge": "1_2"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "1.",
+        "edge": "1_2"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "10.",
+        "edge": "1_2"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "25.",
+        "edge": "1_2"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "1%.",
+        "edge": "1_2"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "589 Iezvxq Court.",
+        "edge": "1_2"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "Customer.",
+        "edge": "1_2"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "Seller.",
+        "edge": "1_2"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "3.",
+        "edge": "1_2"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "15.",
+        "edge": "1_2"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "14.",
+        "edge": "1_2"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "The State of Michigan.",
+        "edge": "1_2"
+    },
+    {
+        "question": "What was the effective date of the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "10-06-2009.",
+        "edge": "2_3"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Vmkocn LLC as of 10-06-2009?",
+        "answer": "Kbyymf SA.",
+        "edge": "2_3"
+    },
+    {
+        "question": "What was the address of Kbyymf SA in the contract with Vmkocn LLC?",
+        "answer": "132 Rlfjsb Boulevard.",
+        "edge": "2_3"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Kbyymf SA as of 10-06-2009?",
+        "answer": "Vmkocn LLC.",
+        "edge": "2_3"
+    },
+    {
+        "question": "What was the address of Vmkocn LLC in the contract with Kbyymf SA?",
+        "answer": "048 Mukqth Place.",
+        "edge": "2_3"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "Sneakers.",
+        "edge": "2_3"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "96.",
+        "edge": "2_3"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "54.",
+        "edge": "2_3"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "5184.",
+        "edge": "2_3"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "4.",
+        "edge": "2_3"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "15.",
+        "edge": "2_3"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "25.",
+        "edge": "2_3"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "2%.",
+        "edge": "2_3"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "177 Znfljg Road.",
+        "edge": "2_3"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "Seller.",
+        "edge": "2_3"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "Seller.",
+        "edge": "2_3"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "2.",
+        "edge": "2_3"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "30.",
+        "edge": "2_3"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "9.",
+        "edge": "2_3"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "The State of California.",
+        "edge": "2_3"
+    },
+    {
+        "question": "What was the effective date of the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "22-10-1994.",
+        "edge": "3_4"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Oangph GmbH as of 22-10-1994?",
+        "answer": "Vmkocn LLC.",
+        "edge": "3_4"
+    },
+    {
+        "question": "What was the address of Vmkocn LLC in the contract with Oangph GmbH?",
+        "answer": "048 Mukqth Place.",
+        "edge": "3_4"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Vmkocn LLC as of 22-10-1994?",
+        "answer": "Oangph GmbH.",
+        "edge": "3_4"
+    },
+    {
+        "question": "What was the address of Oangph GmbH in the contract with Vmkocn LLC?",
+        "answer": "671 Nyjbfa Way.",
+        "edge": "3_4"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "Boots.",
+        "edge": "3_4"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "79.",
+        "edge": "3_4"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "37.",
+        "edge": "3_4"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "2923.",
+        "edge": "3_4"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "4.",
+        "edge": "3_4"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "10.",
+        "edge": "3_4"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "20.",
+        "edge": "3_4"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "5%.",
+        "edge": "3_4"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "525 Noruik Way.",
+        "edge": "3_4"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "Customer.",
+        "edge": "3_4"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "Customer.",
+        "edge": "3_4"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "5.",
+        "edge": "3_4"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "25.",
+        "edge": "3_4"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "6.",
+        "edge": "3_4"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Vmkocn LLC and Oangph GmbH?",
+        "answer": "The State of Pennsylvania.",
+        "edge": "3_4"
+    },
+    {
+        "question": "What was the effective date of the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "18-02-1982.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Oangph GmbH as of 18-02-1982?",
+        "answer": "Iqfajp AG.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the address of Iqfajp AG in the contract with Oangph GmbH?",
+        "answer": "508 Xskmjt Lane.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Iqfajp AG as of 18-02-1982?",
+        "answer": "Oangph GmbH.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the address of Oangph GmbH in the contract with Iqfajp AG?",
+        "answer": "671 Nyjbfa Way.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "Scarves.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "24.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "56.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "1344.",
+        "edge": "4_5"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "2.",
+        "edge": "4_5"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "5.",
+        "edge": "4_5"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "30.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "1%.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "462 Iovfgu Circle.",
+        "edge": "4_5"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "Seller.",
+        "edge": "4_5"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "Customer.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "4.",
+        "edge": "4_5"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "5.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "6.",
+        "edge": "4_5"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "The State of Florida.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the effective date of the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "02-04-2017.",
+        "edge": "5_6"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Idtbha SAS as of 02-04-2017?",
+        "answer": "Iqfajp AG.",
+        "edge": "5_6"
+    },
+    {
+        "question": "What was the address of Iqfajp AG in the contract with Idtbha SAS?",
+        "answer": "508 Xskmjt Lane.",
+        "edge": "5_6"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Iqfajp AG as of 02-04-2017?",
+        "answer": "Idtbha SAS.",
+        "edge": "5_6"
+    },
+    {
+        "question": "What was the address of Idtbha SAS in the contract with Iqfajp AG?",
+        "answer": "924 Bggrxi Drive.",
+        "edge": "5_6"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "Rings.",
+        "edge": "5_6"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "44.",
+        "edge": "5_6"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "83.",
+        "edge": "5_6"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "3652.",
+        "edge": "5_6"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "5.",
+        "edge": "5_6"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "10.",
+        "edge": "5_6"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "15.",
+        "edge": "5_6"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "3%.",
+        "edge": "5_6"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "256 Jnmvwj Alley.",
+        "edge": "5_6"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "Seller.",
+        "edge": "5_6"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "Customer.",
+        "edge": "5_6"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "1.",
+        "edge": "5_6"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "10.",
+        "edge": "5_6"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "8.",
+        "edge": "5_6"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "The State of North Carolina.",
+        "edge": "5_6"
+    },
+    {
+        "question": "What was the effective date of the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "03-05-2010.",
+        "edge": "6_7"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Zxgckl Ltd as of 03-05-2010?",
+        "answer": "Idtbha SAS.",
+        "edge": "6_7"
+    },
+    {
+        "question": "What was the address of Idtbha SAS in the contract with Zxgckl Ltd?",
+        "answer": "924 Bggrxi Drive.",
+        "edge": "6_7"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Idtbha SAS as of 03-05-2010?",
+        "answer": "Zxgckl Ltd.",
+        "edge": "6_7"
+    },
+    {
+        "question": "What was the address of Zxgckl Ltd in the contract with Idtbha SAS?",
+        "answer": "136 Pvufat Terrace.",
+        "edge": "6_7"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "Necklaces.",
+        "edge": "6_7"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "85.",
+        "edge": "6_7"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "5.",
+        "edge": "6_7"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "425.",
+        "edge": "6_7"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "1.",
+        "edge": "6_7"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "25.",
+        "edge": "6_7"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "10.",
+        "edge": "6_7"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "3%.",
+        "edge": "6_7"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "390 Fpyweb Avenue.",
+        "edge": "6_7"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "Seller.",
+        "edge": "6_7"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "Seller.",
+        "edge": "6_7"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "4.",
+        "edge": "6_7"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "15.",
+        "edge": "6_7"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "14.",
+        "edge": "6_7"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Idtbha SAS and Zxgckl Ltd?",
+        "answer": "The State of New York.",
+        "edge": "6_7"
+    },
+    {
+        "question": "What was the effective date of the contract between Ixpayl SARL and Zxgckl Ltd?",
+        "answer": "06-05-2005.",
+        "edge": "7_8"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Zxgckl Ltd as of 06-05-2005?",
+        "answer": "Ixpayl SARL.",
+        "edge": "7_8"
+    },
+    {
+        "question": "What was the address of Ixpayl SARL in the contract with Zxgckl Ltd?",
+        "answer": "695 Quglfi Place.",
+        "edge": "7_8"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Ixpayl SARL as of 06-05-2005?",
+        "answer": "Zxgckl Ltd.",
+        "edge": "7_8"
+    },
+    {
+        "question": "What was the address of Zxgckl Ltd in the contract with Ixpayl SARL?",
+        "answer": "136 Pvufat Terrace.",
+        "edge": "7_8"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Ixpayl SARL and Zxgckl Ltd?",
+        "answer": "Watches.",
+        "edge": "7_8"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Ixpayl SARL and Zxgckl Ltd?",
+        "answer": "95.",
+        "edge": "7_8"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Ixpayl SARL and Zxgckl Ltd?",
+        "answer": "63.",
+        "edge": "7_8"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Ixpayl SARL and Zxgckl Ltd?",
+        "answer": "5985.",
+        "edge": "7_8"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Ixpayl SARL and Zxgckl Ltd?",
+        "answer": "1.",
+        "edge": "7_8"
+    }
+]

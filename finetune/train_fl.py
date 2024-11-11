@@ -23,6 +23,7 @@ def fit_weighted_average(metrics):
 
 
 os.environ["WANDB_PROJECT"] = "llm-memorization"
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 save_path = "conf"
 cfg = OmegaConf.load(save_path + "/fl_config_pythia.yaml")
@@ -34,10 +35,13 @@ tokenizer, collator, formatting_func = (
 # Generate data partitions using Flower Datasets
 # Each client will make use of a different data partition
 partitioner = IidPartitioner(num_partitions=cfg.flower.num_clients)
-fds = FederatedDataset(
-    dataset=cfg.dataset.name, partitioners={"train": partitioner}
-)
+# fds = FederatedDataset(
+#     dataset=medalpaca/medical_meadow_medical_flashcards, partitioners={"train": partitioner}, data_files="/nfs-share/pa511/llm_memorisation/datasets/medical_dataset/deduplicated_medical_meadow_flashcards.json"
+# )
 
+fds = FederatedDataset(
+    dataset="xinchiqiu/PISTOL", partitioners={"train": partitioner}, data_files="/nfs-share/pa511/llm_memorisation/datasets/PISTOL/sample_data_1.json"
+)
 cfg.run_id = wandb.util.generate_id()
 
 train_sets = []
