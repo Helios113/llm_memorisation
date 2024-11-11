@@ -5,6 +5,7 @@ from trl import DataCollatorForCompletionOnlyLM
 def get_tokenizer_and_data_collator_and_prompt_formatting(model_name: str, tokenizer_name: str):
     
     def formatting_prompts_func(example):
+        #TODO Use the same prompt for PISTOL changing key values for the JSON
         output_texts = []
         # Constructing a standard Alpaca (https://github.com/tatsu-lab/stanford_alpaca#data-release) prompt
         for i in range(len(example['instruction'])):
