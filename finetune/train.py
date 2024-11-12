@@ -21,7 +21,7 @@ def main(cfg: DictConfig) -> None:
         project="llm-memorization", id=cfg.wandb_id, resume="allow"
     )
 
-    dataset = load_dataset(cfg.dataset.name, 'pistol_data_1', split="train")
+    dataset = load_dataset(cfg.dataset.name, split="train")
     train_set = None
     eval_set = None
     if cfg.train.evaluate_split:
@@ -78,6 +78,7 @@ def main(cfg: DictConfig) -> None:
     else:
         trainer.train()
 
+    print(f"I am saving the model to {save_path}/last")
     trainer.save_model(f"{save_path}/last")
 
 

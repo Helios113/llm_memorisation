@@ -61,7 +61,7 @@ cen_eval_set = datasets.concatenate_datasets(eval_sets)
 
 
 
-save_path = "./my_fl_model"
+save_path = "./my_fl_model_medical_centralized"
 # Make prototype client
 client = fl.client.ClientApp(
     client_fn=gen_client_fn(

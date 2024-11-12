@@ -8,14 +8,17 @@ def get_tokenizer_and_data_collator_and_prompt_formatting(model_name: str, token
         #TODO Use the same prompt for PISTOL changing key values for the JSON
         output_texts = []
         # Constructing a standard Alpaca (https://github.com/tatsu-lab/stanford_alpaca#data-release) prompt
-        for i in range(len(example['edge'])):
+        for i in range(len(example['instruction'])):
             text = f'''Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
             
+            ### Instruction:
+            {example['instruction'][i]}
+            
             ### Input:
-            {example['question'][i]}
+            {example['input'][i]}
             
             ### Response:
-            {example['answer'][i]}
+            {example['output'][i]}
             '''
             output_texts.append(text)
         return output_texts

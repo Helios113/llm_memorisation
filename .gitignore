@@ -8,3 +8,5 @@ finetune/__pycache__/data_formatting.cpython-311.pyc
 finetune/__pycache__/client.cpython-311.pyc
 *.log
 */wandb/*
+finetune/my_fl_model_medical_centralized/*
+slurm_out/*
