@@ -25,6 +25,7 @@ import logging
 import wandb
 logger = logging.getLogger("ray.serve")
 from transformers import TrainerCallback, TrainerControl, TrainerState
+import os
 
 class CustomSFTTrainer(SFTTrainer):
     def train(self, resume_from_checkpoint=None, trial=None, **kwargs):

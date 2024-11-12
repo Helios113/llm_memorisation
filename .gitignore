@@ -10,3 +10,4 @@ finetune/__pycache__/client.cpython-311.pyc
 */wandb/*
 finetune/my_fl_model_medical_centralized/*
 slurm_out/*
+finetune/my_model_medical_centralized/*
