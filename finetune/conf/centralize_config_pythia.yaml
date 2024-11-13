@@ -23,18 +23,18 @@ model:
 
 
 training_arguments:
-  learning_rate: 5e-5 # 1e-6
-  per_device_train_batch_size: 4
-  per_device_eval_batch_size: 4
+  learning_rate: 1e-6 # 1e-6
+  per_device_train_batch_size: 2
+  per_device_eval_batch_size: 2
   gradient_accumulation_steps: 1
   logging_steps: 1
   logging_dir: "/nfs-share/dc912/llm_memorisation/finetune/outputs/centralized"
-  max_steps: 100
+  max_steps: 10000
   # num_train_epochs: 1
   eval_steps: 50
   eval_delay: 0
   save_steps: 50
-  save_total_limit: 10
+  save_total_limit: 200
   gradient_checkpointing: True # ! Ensure it matches that in model
   gradient_checkpointing_kwargs:
     use_reentrant: False
@@ -55,7 +55,7 @@ train:
 flower:
   num_clients: 1
   fraction_fit: 1
-  num_rounds: 1000
+  num_rounds: 1
   client_resources:
     num_cpus: 8
     num_gpus: 1.0
