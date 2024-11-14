@@ -11,3 +11,7 @@ finetune/__pycache__/client.cpython-311.pyc
 finetune/my_fl_model_medical_centralized/*
 slurm_out/*
 finetune/my_model_medical_centralized/*
+finetune/my_model_medical_centralized_new/checkpoint-100/adapter_config.json
+finetune/my_model_medical_centralized_new/*
+finetune/my_model_medical_centralized*
+finetune/my_model_medical_centralized_new/*
