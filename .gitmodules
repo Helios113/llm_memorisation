@@ -7,3 +7,6 @@
 [submodule "mia/mimir"]
 	path = mia/mimir
 	url = https://github.com/iamgroot42/mimir.git
+[submodule "finetune"]
+	path = finetune
+	url = git@github.com:Helios113/finetune.git
