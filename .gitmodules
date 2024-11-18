@@ -1,12 +1,12 @@
 [submodule "datasets/PISTOL"]
 	path = datasets/PISTOL
-	url = git@hf.co:datasets/xinchiqiu/PISTOL
+	url = git@github.com:Helios113/PISTOL.git
 [submodule "differential_privacy/opacus"]
 	path = differential_privacy/opacus
 	url = https://github.com/pytorch/opacus.git
 [submodule "mia/mimir"]
 	path = mia/mimir
-	url = https://github.com/iamgroot42/mimir.git
+	url = git@github.com:Helios113/mimir.git
 [submodule "finetune"]
 	path = finetune
 	url = git@github.com:Helios113/finetune.git
