@@ -1,0 +1,752 @@
+[
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Ntquss BV and Rlnhbo GmbH?",
+        "answer": "Seller.",
+        "edge": "13_14"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Hqopns SRL and Stxiik BVBA?",
+        "answer": "25.",
+        "edge": "17_18"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Mlyqwh SRL and Ogcgwj LLC?",
+        "answer": "481 Povcna Lane.",
+        "edge": "10_11"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "Seller.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the address of Fqunnm Inc in the contract with Bathfl Inc?",
+        "answer": "861 Uqkrmg Drive.",
+        "edge": "24_27"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Bathfl Inc and Xxkdna PLC?",
+        "answer": "Customer.",
+        "edge": "27_29"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Gadwnx SA and Mlyqwh SRL?",
+        "answer": "5%.",
+        "edge": "11_19"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Idtbha SAS as of 02-04-2017?",
+        "answer": "Iqfajp AG.",
+        "edge": "5_6"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Bathfl Inc and Qxdylv AG?",
+        "answer": "5.",
+        "edge": "21_27"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Xxkdna PLC and Fqunnm Inc?",
+        "answer": "25.",
+        "edge": "24_29"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Qxdylv AG and Xxkdna PLC?",
+        "answer": "3.",
+        "edge": "21_29"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Fqunnm Inc as of 05-10-2008?",
+        "answer": "Hpqbrj Corp.",
+        "edge": "20_24"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "The State of North Carolina.",
+        "edge": "0_1"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Fedafp Corp and Vtybit BVBA?",
+        "answer": "11.",
+        "edge": "23_28"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Jjbnsm Inc and Hpqbrj Corp?",
+        "answer": "022 Tsorhm Highway.",
+        "edge": "20_26"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Vtybit BVBA and Jjbnsm Inc?",
+        "answer": "254 Kmoijc Crescent.",
+        "edge": "23_26"
+    },
+    {
+        "question": "What was the address of Qxdylv AG in the contract with Fqunnm Inc?",
+        "answer": "067 Hnqhvs Drive.",
+        "edge": "21_24"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Bathfl Inc and Uadpar Ltd?",
+        "answer": "Customer.",
+        "edge": "22_27"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Uadpar Ltd and Qxdylv AG?",
+        "answer": "77.",
+        "edge": "21_22"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Jjbnsm Inc and Jwrxqx Ltd?",
+        "answer": "4.",
+        "edge": "25_26"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Gadwnx SA and Ogcgwj LLC?",
+        "answer": "5184.",
+        "edge": "10_19"
+    },
+    {
+        "question": "What was the address of Stxiik BVBA in the contract with Hqopns SRL?",
+        "answer": "818 Xbwjoi Street.",
+        "edge": "17_18"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Jwrxqx Ltd and Vtybit BVBA?",
+        "answer": "20.",
+        "edge": "23_25"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Jwrxqx Ltd and Qxdylv AG?",
+        "answer": "2%.",
+        "edge": "21_25"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Jwrxqx Ltd as of 29-07-1996?",
+        "answer": "Fqunnm Inc.",
+        "edge": "24_25"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Hpqbrj Corp and Fqunnm Inc?",
+        "answer": "112.",
+        "edge": "20_24"
+    },
+    {
+        "question": "What was the address of Zxgckl Ltd in the contract with Ixpayl SARL?",
+        "answer": "136 Pvufat Terrace.",
+        "edge": "7_8"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Mlyqwh SRL and Stxiik BVBA?",
+        "answer": "87.",
+        "edge": "11_18"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Gadwnx SA and Mlyqwh SRL?",
+        "answer": "Coffee machines.",
+        "edge": "11_19"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Bathfl Inc and Jwrxqx Ltd?",
+        "answer": "Seller.",
+        "edge": "25_27"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "The State of Michigan.",
+        "edge": "1_2"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Jwrxqx Ltd and Uadpar Ltd?",
+        "answer": "3%.",
+        "edge": "22_25"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Hqopns SRL as of 06-05-2009?",
+        "answer": "Mlyqwh SRL.",
+        "edge": "11_17"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Hioruo LLC and Rlnhbo GmbH?",
+        "answer": "The State of North Carolina.",
+        "edge": "13_15"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Hqopns SRL and Gjrtoz AG?",
+        "answer": "4.",
+        "edge": "12_17"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Mlyqwh SRL and Ogcgwj LLC?",
+        "answer": "1.",
+        "edge": "10_11"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Jwrxqx Ltd as of 20-07-1995?",
+        "answer": "Jjbnsm Inc.",
+        "edge": "25_26"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Hioruo LLC and Gytgwd LLC?",
+        "answer": "Seller.",
+        "edge": "15_16"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "Scarves.",
+        "edge": "4_5"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Gytgwd LLC and Gjrtoz AG?",
+        "answer": "Customer.",
+        "edge": "12_16"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Hioruo LLC as of 09-01-2000?",
+        "answer": "Rlnhbo GmbH.",
+        "edge": "13_15"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "9.",
+        "edge": "2_3"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Jjbnsm Inc and Fqunnm Inc?",
+        "answer": "5.",
+        "edge": "24_26"
+    },
+    {
+        "question": "What was the address of Jwrxqx Ltd in the contract with Hpqbrj Corp?",
+        "answer": "571 Quktvq Square.",
+        "edge": "20_25"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Qxdylv AG and Hpqbrj Corp?",
+        "answer": "The State of Illinois.",
+        "edge": "20_21"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Zxgckl Ltd as of 06-05-2005?",
+        "answer": "Ixpayl SARL.",
+        "edge": "7_8"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Fqunnm Inc and Vtybit BVBA?",
+        "answer": "2.",
+        "edge": "23_24"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Stxiik BVBA and Ogcgwj LLC?",
+        "answer": "10.",
+        "edge": "10_18"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Jjbnsm Inc and Fedafp Corp?",
+        "answer": "Dog beds.",
+        "edge": "26_28"
+    },
+    {
+        "question": "What was the address of Hpqbrj Corp in the contract with Fedafp Corp?",
+        "answer": "514 Ltxqvq Square.",
+        "edge": "20_28"
+    },
+    {
+        "question": "What was the effective date of the contract between Hpqbrj Corp and Jwrxqx Ltd?",
+        "answer": "18-01-1995.",
+        "edge": "20_25"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Dqchpy Inc and Ixpayl SARL?",
+        "answer": "The State of Florida.",
+        "edge": "8_9"
+    },
+    {
+        "question": "What was the address of Xxkdna PLC in the contract with Qxdylv AG?",
+        "answer": "398 Czcsrf Square.",
+        "edge": "21_29"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Fedafp Corp and Xxkdna PLC?",
+        "answer": "4%.",
+        "edge": "28_29"
+    },
+    {
+        "question": "What was the address of Fedafp Corp in the contract with Hpqbrj Corp?",
+        "answer": "289 Qtbgke Square.",
+        "edge": "20_28"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Stxiik BVBA and Gadwnx SA?",
+        "answer": "4.",
+        "edge": "18_19"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Uadpar Ltd as of 24-09-2004?",
+        "answer": "Qxdylv AG.",
+        "edge": "21_22"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Vtybit BVBA and Uadpar Ltd?",
+        "answer": "1.",
+        "edge": "22_23"
+    },
+    {
+        "question": "What was the address of Hqopns SRL in the contract with Mlyqwh SRL?",
+        "answer": "813 Gilzsr Place.",
+        "edge": "11_17"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "36.",
+        "edge": "0_1"
+    },
+    {
+        "question": "What was the unit price in dollars of the good being sold based on the contract between Qxdylv AG and Hpqbrj Corp?",
+        "answer": "24.",
+        "edge": "20_21"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "4.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Qxdylv AG as of 10-10-2008?",
+        "answer": "Fedafp Corp.",
+        "edge": "21_28"
+    },
+    {
+        "question": "What was the address of Fedafp Corp in the contract with Jjbnsm Inc?",
+        "answer": "289 Qtbgke Square.",
+        "edge": "26_28"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Vtybit BVBA and Jjbnsm Inc?",
+        "answer": "The State of North Carolina.",
+        "edge": "23_26"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Hpqbrj Corp and Fedafp Corp?",
+        "answer": "The State of California.",
+        "edge": "20_28"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Stxiik BVBA and Ogcgwj LLC?",
+        "answer": "30.",
+        "edge": "10_18"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Hpqbrj Corp and Fedafp Corp?",
+        "answer": "2.",
+        "edge": "20_28"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Oosvxc BV and Fcgqkv Ltd?",
+        "answer": "1%.",
+        "edge": "0_1"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Bathfl Inc and Fedafp Corp?",
+        "answer": "Seller.",
+        "edge": "27_28"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "Customer.",
+        "edge": "4_5"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Vtybit BVBA and Uadpar Ltd?",
+        "answer": "The State of Georgia.",
+        "edge": "22_23"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Gjrtoz AG and Mlyqwh SRL?",
+        "answer": "1100.",
+        "edge": "11_12"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Ixpayl SARL and Zxgckl Ltd?",
+        "answer": "Customer.",
+        "edge": "7_8"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Fqunnm Inc and Uadpar Ltd?",
+        "answer": "15.",
+        "edge": "22_24"
+    },
+    {
+        "question": "What was the effective date of the contract between Bathfl Inc and Vtybit BVBA?",
+        "answer": "10-04-2014.",
+        "edge": "23_27"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Gytgwd LLC as of 14-05-2000?",
+        "answer": "Gjrtoz AG.",
+        "edge": "12_16"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Xxkdna PLC and Hpqbrj Corp?",
+        "answer": "30.",
+        "edge": "20_29"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Iqfajp AG and Oangph GmbH?",
+        "answer": "6.",
+        "edge": "4_5"
+    },
+    {
+        "question": "What was the address of Jjbnsm Inc in the contract with Qxdylv AG?",
+        "answer": "992 Prtqrk Terrace.",
+        "edge": "21_26"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Jwrxqx Ltd and Xxkdna PLC?",
+        "answer": "7.",
+        "edge": "25_29"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Jjbnsm Inc and Qxdylv AG?",
+        "answer": "4.",
+        "edge": "21_26"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Stxiik BVBA and Gadwnx SA?",
+        "answer": "Shoe storages.",
+        "edge": "18_19"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Uadpar Ltd as of 09-08-1994?",
+        "answer": "Jjbnsm Inc.",
+        "edge": "22_26"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Fqunnm Inc and Bathfl Inc?",
+        "answer": "4.",
+        "edge": "24_27"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Fedafp Corp and Vtybit BVBA?",
+        "answer": "1%.",
+        "edge": "23_28"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Fedafp Corp and Fqunnm Inc?",
+        "answer": "3198.",
+        "edge": "24_28"
+    },
+    {
+        "question": "What was the effective date of the contract between Fedafp Corp and Vtybit BVBA?",
+        "answer": "28-10-1999.",
+        "edge": "23_28"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Bathfl Inc and Xxkdna PLC?",
+        "answer": "27.",
+        "edge": "27_29"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Ntquss BV and Rlnhbo GmbH?",
+        "answer": "Customer.",
+        "edge": "13_14"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Mlyqwh SRL and Hqopns SRL?",
+        "answer": "The State of Florida.",
+        "edge": "11_17"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Jjbnsm Inc and Fedafp Corp?",
+        "answer": "12.",
+        "edge": "26_28"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Fedafp Corp and Vtybit BVBA?",
+        "answer": "Seller.",
+        "edge": "23_28"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Gytgwd LLC and Rlnhbo GmbH?",
+        "answer": "25.",
+        "edge": "13_16"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Qxdylv AG and Xxkdna PLC?",
+        "answer": "1950.",
+        "edge": "21_29"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Gadwnx SA and Ogcgwj LLC?",
+        "answer": "262 Zsbggy Drive.",
+        "edge": "10_19"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Fqunnm Inc and Vtybit BVBA?",
+        "answer": "Customer.",
+        "edge": "23_24"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Gjrtoz AG and Stxiik BVBA?",
+        "answer": "20.",
+        "edge": "12_18"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Uadpar Ltd and Qxdylv AG?",
+        "answer": "The State of Georgia.",
+        "edge": "21_22"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Bathfl Inc and Hpqbrj Corp?",
+        "answer": "4%.",
+        "edge": "20_27"
+    },
+    {
+        "question": "By how many days after the delivery time must the seller provide the customer with an invoice based on the contract between Kbyymf SA and Fcgqkv Ltd?",
+        "answer": "1.",
+        "edge": "1_2"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Mlyqwh SRL and Hqopns SRL?",
+        "answer": "5.",
+        "edge": "11_17"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Gjrtoz AG as of 10-04-2012?",
+        "answer": "Mlyqwh SRL.",
+        "edge": "11_12"
+    },
+    {
+        "question": "What was the address of Vmkocn LLC in the contract with Oangph GmbH?",
+        "answer": "048 Mukqth Place.",
+        "edge": "3_4"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Iqfajp AG and Idtbha SAS?",
+        "answer": "8.",
+        "edge": "5_6"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Dqchpy Inc and Ixpayl SARL?",
+        "answer": "1.",
+        "edge": "8_9"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Jwrxqx Ltd and Fqunnm Inc?",
+        "answer": "987 Naxhqc Terrace.",
+        "edge": "24_25"
+    },
+    {
+        "question": "What was the address of delivery based on the contract between Gjrtoz AG and Rlnhbo GmbH?",
+        "answer": "665 Wrjtnh Alley.",
+        "edge": "12_13"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Gadwnx SA and Ogcgwj LLC?",
+        "answer": "The State of Michigan.",
+        "edge": "10_19"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Qxdylv AG and Hpqbrj Corp?",
+        "answer": "13.",
+        "edge": "20_21"
+    },
+    {
+        "question": "What was the address of Fqunnm Inc in the contract with Hpqbrj Corp?",
+        "answer": "861 Uqkrmg Drive.",
+        "edge": "20_24"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Xxkdna PLC as of 03-12-2018?",
+        "answer": "Vtybit BVBA.",
+        "edge": "23_29"
+    },
+    {
+        "question": "Within how many days of discovering a defect must the customer notify the seller in writing in the event of a breach of warranty based on the contract between Hpqbrj Corp and Fedafp Corp?",
+        "answer": "20.",
+        "edge": "20_28"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Qxdylv AG and Fedafp Corp?",
+        "answer": "15.",
+        "edge": "21_28"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Vtybit BVBA and Uadpar Ltd?",
+        "answer": "30.",
+        "edge": "22_23"
+    },
+    {
+        "question": "What was the address of Jjbnsm Inc in the contract with Fqunnm Inc?",
+        "answer": "992 Prtqrk Terrace.",
+        "edge": "24_26"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Fedafp Corp as of 28-10-1999?",
+        "answer": "Vtybit BVBA.",
+        "edge": "23_28"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Vtybit BVBA as of 23-04-1999?",
+        "answer": "Qxdylv AG.",
+        "edge": "21_23"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Gjrtoz AG and Mlyqwh SRL?",
+        "answer": "Seller.",
+        "edge": "11_12"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Hqopns SRL and Rlnhbo GmbH?",
+        "answer": "1.",
+        "edge": "13_17"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Ixpayl SARL and Zxgckl Ltd?",
+        "answer": "The State of Texas.",
+        "edge": "7_8"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Jwrxqx Ltd as of 07-06-2017?",
+        "answer": "Fedafp Corp.",
+        "edge": "25_28"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Gytgwd LLC and Gjrtoz AG?",
+        "answer": "4.",
+        "edge": "12_16"
+    },
+    {
+        "question": "What was the name of the customer in the contract with Fqunnm Inc as of 09-05-1993?",
+        "answer": "Bathfl Inc.",
+        "edge": "24_27"
+    },
+    {
+        "question": "What was the address of Xxkdna PLC in the contract with Jwrxqx Ltd?",
+        "answer": "398 Czcsrf Square.",
+        "edge": "25_29"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Uadpar Ltd and Jjbnsm Inc?",
+        "answer": "The State of Ohio.",
+        "edge": "22_26"
+    },
+    {
+        "question": "Who would decide the shipping method based on the contract between Bathfl Inc and Vtybit BVBA?",
+        "answer": "Customer.",
+        "edge": "23_27"
+    },
+    {
+        "question": "What was the address of Ogcgwj LLC in the contract with Stxiik BVBA?",
+        "answer": "850 Uqyxwh Square.",
+        "edge": "10_18"
+    },
+    {
+        "question": "What was the total price in dollars of the good being sold based on the contract between Kbyymf SA and Vmkocn LLC?",
+        "answer": "5184.",
+        "edge": "2_3"
+    },
+    {
+        "question": "What was the address of Uadpar Ltd in the contract with Bathfl Inc?",
+        "answer": "928 Tgkpsb Crescent.",
+        "edge": "22_27"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Hioruo LLC and Gytgwd LLC?",
+        "answer": "5.",
+        "edge": "15_16"
+    },
+    {
+        "question": "What was the address of Gjrtoz AG in the contract with Mlyqwh SRL?",
+        "answer": "796 Vtrlha Place.",
+        "edge": "11_12"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Gytgwd LLC and Hqopns SRL?",
+        "answer": "Sofas.",
+        "edge": "16_17"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Fqunnm Inc and Vtybit BVBA?",
+        "answer": "5.",
+        "edge": "23_24"
+    },
+    {
+        "question": "What was the effective date of the contract between Fqunnm Inc and Bathfl Inc?",
+        "answer": "09-05-1993.",
+        "edge": "24_27"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Jwrxqx Ltd and Uadpar Ltd?",
+        "answer": "The State of New York.",
+        "edge": "22_25"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Jjbnsm Inc and Hpqbrj Corp?",
+        "answer": "The State of North Carolina.",
+        "edge": "20_26"
+    },
+    {
+        "question": "What was the duration of the general warranty period in years based on the contract between Jwrxqx Ltd and Xxkdna PLC?",
+        "answer": "3.",
+        "edge": "25_29"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Jwrxqx Ltd and Fedafp Corp?",
+        "answer": "20.",
+        "edge": "25_28"
+    },
+    {
+        "question": "What was the address of Vmkocn LLC in the contract with Kbyymf SA?",
+        "answer": "048 Mukqth Place.",
+        "edge": "2_3"
+    },
+    {
+        "question": "What was the good that the seller was selling to the customer based on the contract between Gjrtoz AG and Rlnhbo GmbH?",
+        "answer": "Laptop computers.",
+        "edge": "12_13"
+    },
+    {
+        "question": "What was the address of Gytgwd LLC in the contract with Rlnhbo GmbH?",
+        "answer": "966 Wvdpav Alley.",
+        "edge": "13_16"
+    },
+    {
+        "question": "Which jurisdiction's laws govern the contract between Vtybit BVBA and Qxdylv AG?",
+        "answer": "The State of Georgia.",
+        "edge": "21_23"
+    },
+    {
+        "question": "Who would be responsible for the costs of the shipment based on the contract between Bathfl Inc and Vtybit BVBA?",
+        "answer": "Customer.",
+        "edge": "23_27"
+    },
+    {
+        "question": "What was the late payment interest rate based on the contract between Stxiik BVBA and Ogcgwj LLC?",
+        "answer": "4%.",
+        "edge": "10_18"
+    },
+    {
+        "question": "After how many days would unpaid balances incur a late payment penalty based on the contract between Vtybit BVBA and Jjbnsm Inc?",
+        "answer": "15.",
+        "edge": "23_26"
+    },
+    {
+        "question": "Within how many days must the invoice be paid in full based on the contract between Hpqbrj Corp and Fqunnm Inc?",
+        "answer": "10.",
+        "edge": "20_24"
+    },
+    {
+        "question": "What was the duration of the cooling-off period in days based on the contract between Gytgwd LLC and Gjrtoz AG?",
+        "answer": "14.",
+        "edge": "12_16"
+    },
+    {
+        "question": "What was the quantity of the good being sold based on the contract between Hioruo LLC and Rlnhbo GmbH?",
+        "answer": "35.",
+        "edge": "13_15"
+    },
+    {
+        "question": "What was the name of the seller in the contract with Oangph GmbH as of 18-02-1982?",
+        "answer": "Iqfajp AG.",
+        "edge": "4_5"
+    }
+]
